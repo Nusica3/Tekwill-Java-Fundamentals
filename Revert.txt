@@ -1,4 +1,1 @@
-<<<<<<< HEAD
-nfdjknjksdfdfsdfsdccccccccccc
-=======
->>>>>>> parent of 12e4cd9... Testing revert.
+Commit 1.
